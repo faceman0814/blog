@@ -15,14 +15,26 @@
         <div id="scrolldiv">
             <div class="scrolltext">
                 <ul class="list-unstyled" id="notice-box">
-<#--                    <li class="scrolltext-title">-->
-<#--                        <a href="javascript:void(0)" rel="bookmark">本站正式启用新域名:<a href="https:/www.zhyd.me" target="_blank"><strong>https:/www.zhyd.me</strong></a></a>-->
-<#--                    </li>-->
                     <li class="scrolltext-title">
-                        <a href="javascript:void(0)" rel="bookmark">活了二十多年，没能为祖国、为人民做点什么，每思及此，伤心欲绝。</a>
+                        <a href="javascript:void(0)" rel="bookmark">有时候，改变一下自己的想法，就能改变整个世界。</a>
                     </li>
                     <li class="scrolltext-title">
-                        <a href="javascript:void(0)" rel="bookmark">其实我们可以将所有的问题归结为两种：一种是没饭吃饿出来的；一种是吃饱了撑出来的。</a>
+                        <a href="javascript:void(0)" rel="bookmark">记得给自己留些时间，远离喧嚣，静下心来思考和反思。</a>
+                    </li>
+                    <li class="scrolltext-title">
+                        <a href="javascript:void(0)" rel="bookmark">持续学习和不断更新自己的知识是成为优秀开发者的关键。</a>
+                    </li>
+                      <li class="scrolltext-title">
+                        <a href="javascript:void(0)" rel="bookmark">在编码的过程中，解决问题的能力比语言的选择更加重要。</a>
+                    </li>
+                    <li class="scrolltext-title">
+                        <a href="javascript:void(0)" rel="bookmark">开发者的世界充满挑战和创造力，每一行代码都是一次探索和实验。</a>
+                    </li>
+                    <li class="scrolltext-title">
+                        <a href="javascript:void(0)" rel="bookmark">善于利用工具和技术来简化开发流程，让代码更加高效和优化。</a>
+                    </li>
+                    <li class="scrolltext-title">
+                        <a href="javascript:void(0)" rel="bookmark">开源精神是开发者的核心价值观，共享和合作是推动技术进步的动力。</a>
                     </li>
                 </ul>
             </div>
